@@ -15,8 +15,9 @@
     <li>📲 Telegram: <a href="https://t.me/your-telegram">@</a></li>
   </ul>
 
----
-### 💻 Languages & Frameworks
+
+<h2>💻 Languages & Frameworks</h2>
+
 ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white&color=20232A)
 ![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=white&color=20232A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white&color=20232A)
@@ -25,8 +26,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white&color=20232A)
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white&color=20232A)
 
----
-### 🛠 Technologies & Tools
+<h2>🛠 Technologies & Tools</h2>
+
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white&color=20232A)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white&color=20232A)
 ![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=20232A)
