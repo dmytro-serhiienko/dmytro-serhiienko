@@ -1,6 +1,6 @@
 <div id="greetings" align="center">
 <h1>
-  Hey, I'm Dmitry!
+  Hey, I'm Dmytro!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
    <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
 </h1>
