@@ -12,7 +12,6 @@
     <li>✉️ Email: <a href="mailto:conneciones@gmail.com">conneciones@gmail.com</a></li>
     <li>💼 LinkedIn: <a href="https://linkedin.com/in/dmytro-serhienko">Dmytro Serhiienko</a></li>
     <li>🐱 GitHub: <a href="https://github.com/dmytro-serhiienko">dmytro-serhiienko</a></li>
-    <li>📲 Telegram: <a href="https://t.me/your-telegram">@</a></li>
   </ul>
 
 
