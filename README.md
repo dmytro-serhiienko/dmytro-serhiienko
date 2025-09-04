@@ -38,7 +38,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmytro-serhiienko&layout=compact&theme=graywhite" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=7c77f7&style=for-the-badge" />
 </div>
 
 
