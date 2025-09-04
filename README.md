@@ -32,13 +32,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=20232A)
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white&color=20232A)
 
-<div >
-  <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=dmytro-serhiienko&show_icons=true&theme=graywhite" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmytro-serhiienko&layout=compact&theme=graywhite" />
-  <br><br>
+
+  
   <img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=7c77f7&style=for-the-badge" />
-</div>
+
 
 
