@@ -1,7 +1,6 @@
 <div id="greetings" align="center">
 <h1>
-  Hey, I'm Dmytro!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+  Hey, I'm Dmytro! <br>
    <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
 </h1>
 <h2>💻 Trainee Fullstack Dev | Learning, coding, exploring AI 🤖</h2>
@@ -36,6 +35,5 @@
 
   
   <img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=7c77f7&style=for-the-badge" />
-
 
 
