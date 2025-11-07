@@ -29,6 +29,7 @@
 
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white&color=20232A)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white&color=20232A)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&color=20232A)
 ![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=20232A)
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white&color=20232A)
 
