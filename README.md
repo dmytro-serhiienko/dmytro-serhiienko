@@ -34,6 +34,6 @@
 
 
   
-  <img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=7c77f7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=0166D6&style=for-the-badge" />
 
 
