@@ -3,7 +3,7 @@
   Hey, I'm Dmytro! <br>
    <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
 </h1>
-<h2>💻 Trainee Fullstack Dev | Learning, coding, exploring AI 🤖</h2>
+<h2>💻 Fullstack Dev | Learning, coding, exploring AI 🤖</h2>
 </div>
 
 <h2>📫 Contact Me</h2>
