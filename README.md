@@ -3,7 +3,7 @@
   Hey, I'm Dmytro! <br>
    <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
 </h1>
-<h2>💻 Fullstack Dev | Learning, coding, exploring AI 🤖</h2>
+<p>Dedicated to crafting clean TypeScript applications with React and Next.js, leveraging GitHub Actions for automation, and constantly evolving through a commitment to continuous learning in architecture and performance.</p>
 </div>
 
 <h2>📫 Contact Me</h2>
@@ -14,30 +14,29 @@
   </ul>
 
 
-<h2>💻 Languages & Frameworks</h2>
+## 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white&color=20232A)
-![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=white&color=20232A)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white&color=20232A)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white&color=20232A)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=20232A)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white&color=20232A)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white&color=20232A)
+## ⚙️ Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-20232A?style=for-the-badge&logo=json&logoColor=white)
 
-<h2>🛠 Technologies & Tools</h2>
-
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white&color=20232A)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white&color=20232A)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=20232A)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logoColor=white&color=20232A)
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=json&logoColor=white&color=20232A)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&color=20232A)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&color=20232A)
-![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=20232A)
-![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white&color=20232A)
-
+## 🛠️ Tools & DevOps 
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-20232A?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white)
 
   
-  <img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=0166D6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=0166D6&style=for-the-badge" />
 
 
