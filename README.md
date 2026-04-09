@@ -22,6 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-20232A.svg?style=for-the-badge&logo=css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-20232A.svg?style=for-the-badge&logo=greensock&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-20232A.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## ⚙️ Backend & Runtime
