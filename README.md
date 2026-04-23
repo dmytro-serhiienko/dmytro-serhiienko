@@ -45,12 +45,14 @@
 - [Mojito Bar](https://next-aranchiy.vercel.app/) – Landing page for Mojito Bar
 - [Aranchiy](https://next-aranchiy.vercel.app/) – Event Host Portfolio Landing Page
 - [Setagro](https://setagro.vercel.app/) – Professional Website for Anhydrous Ammonia Application Company
+- [Watch E-Commerce](https://dmytro-serhiienko.github.io/watch-website/) – E-Commerce Website Luxury Watch
 - [Restaurant website](https://dmytro-serhiienko.github.io/fried-chicken-website/) – Landing page for a fast-food restaurant
 - [Tinzo](https://tinzo.vercel.app/) – Landing page for DJ Tinzo
 - [ArtistHub](https://bashmachok1982.github.io/artistsHUB-team-project/) – Music collaboration platform
 - [NoteHub](https://note-hub-two-eta.vercel.app/) – Note-taking app
 - [CryptoTrackerPro](https://crypto-tracker-pro-taupe.vercel.app/) – Crypto tracking site
 - [Calculator JS](https://dmytro-serhiienko.github.io/js-calculator-program/) – Custom Animated Calculator
+- [CrypAppy](https://dmytro-serhiienko.github.io/cryp-appy-site/) – Crypto finance app
   
 <img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=0166D6&style=for-the-badge" />
 
