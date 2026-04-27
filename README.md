@@ -44,7 +44,7 @@
 ## 🚀 Projects
 
 - [CODE4308](https://code4308.vercel.app/) – Promotional Website for Podcast & Community
-- [Mojito Bar](https://next-aranchiy.vercel.app/) – Landing page for Mojito Bar
+- [Mojito Bar](https://dmytro-serhiienko.github.io/gsap-mojito-practice/) – Landing page for Mojito Bar
 - [Aranchiy](https://next-aranchiy.vercel.app/) – Event Host Portfolio Landing Page
 - [Setagro](https://setagro.vercel.app/) – Professional Website for Anhydrous Ammonia Application Company
 - [Watch E-Commerce](https://dmytro-serhiienko.github.io/watch-website/) – E-Commerce Website Luxury Watch
