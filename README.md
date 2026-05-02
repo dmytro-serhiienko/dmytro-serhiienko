@@ -42,7 +42,6 @@
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🚀 Projects
-- [FITFOCUS](https://fitfocus-psi.vercel.app/) – AI-Powered Fitness & Nutrition Ecosystem for Gym Performance (on work)
 - [CODE4308](https://code4308.vercel.app/) – Promotional Website for Podcast & Community
 - [Mojito Bar](https://dmytro-serhiienko.github.io/gsap-mojito-practice/) – Landing page for Mojito Bar
 - [Aranchiy](https://next-aranchiy.vercel.app/) – Event Host Portfolio Landing Page
