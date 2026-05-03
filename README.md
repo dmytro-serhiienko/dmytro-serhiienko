@@ -42,18 +42,28 @@
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🚀 Projects
-- [CODE4308](https://code4308.vercel.app/) – Promotional Website for Podcast & Community
-- [Mojito Bar](https://dmytro-serhiienko.github.io/gsap-mojito-practice/) – Landing page for Mojito Bar
+#### AI-powered Apps
+- [QuickLiki](https://quickliki.vercel.app/) – AI-powered medicine assistant for symptom-based drug recommendations
+- [FitFocus](https://fitfocus-psi.vercel.app/) – AI platform for personalized gym training and nutrition plans
+
+#### Next.js
+- [CODE4308](https://code4308.vercel.app/) – Promotional Website for Podcast & Community 
 - [Aranchiy](https://next-aranchiy.vercel.app/) – Event Host Portfolio Landing Page
 - [Setagro](https://setagro.vercel.app/) – Professional Website for Anhydrous Ammonia Application Company
+- [Tinzo](https://tinzo.vercel.app/) – Landing page for DJ Tinzo
+- [NoteHub](https://note-hub-two-eta.vercel.app/) – Note-taking app
+
+#### JavaScript & GSAP
+- [Mojito Bar](https://dmytro-serhiienko.github.io/gsap-mojito-practice/) – Landing page for Mojito Bar
 - [Watch E-Commerce](https://dmytro-serhiienko.github.io/watch-website/) – E-Commerce Website Luxury Watch
 - [Restaurant website](https://dmytro-serhiienko.github.io/fried-chicken-website/) – Landing page for a fast-food restaurant
-- [Tinzo](https://tinzo.vercel.app/) – Landing page for DJ Tinzo
-- [ArtistHub](https://bashmachok1982.github.io/artistsHUB-team-project/) – Music collaboration platform
-- [NoteHub](https://note-hub-two-eta.vercel.app/) – Note-taking app
-- [CryptoTrackerPro](https://crypto-tracker-pro-taupe.vercel.app/) – Crypto tracking site
 - [Calculator JS](https://dmytro-serhiienko.github.io/js-calculator-program/) – Custom Animated Calculator
 - [CrypAppy](https://dmytro-serhiienko.github.io/cryp-appy-site/) – Crypto finance app
+- [CryptoTrackerPro](https://crypto-tracker-pro-taupe.vercel.app/) – Crypto tracking site
+
+#### Team Projects
+- [ArtistHub](https://bashmachok1982.github.io/artistsHUB-team-project/) – Music collaboration platform
+
   
 <img src="https://komarev.com/ghpvc/?username=dmytro-serhiienko&label=Profile%20views&color=0166D6&style=for-the-badge" />
 
