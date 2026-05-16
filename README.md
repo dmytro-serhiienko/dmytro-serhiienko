@@ -43,6 +43,10 @@
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🚀 Projects
+
+#### Portfolio
+- [Dmytro Serhiienko](https://dmytro-portfolio-pi.vercel.app/) – My portfolio
+
 #### AI-powered Apps
 - [QuickLiki](https://quickliki.vercel.app/) – AI-powered medicine assistant for symptom-based drug recommendations
 - [FitFocus](https://fitfocus-psi.vercel.app/) – AI platform for personalized gym training and nutrition plans
