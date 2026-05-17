@@ -46,7 +46,7 @@
 ## 🚀 Projects
 
 #### Portfolio
-- [Dmytro Serhiienko](https://dmytro-portfolio-pi.vercel.app/) – My portfolio
+- [Dmytro Serhiienko](https://dmytro-serhiienko.vercel.app/) – My portfolio
 
 #### AI-powered Apps
 - [QuickLiki](https://quickliki.vercel.app/) – AI-powered medicine assistant for symptom-based drug recommendations
