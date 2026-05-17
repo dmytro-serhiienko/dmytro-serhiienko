@@ -60,7 +60,7 @@
 - [NoteHub](https://note-hub-two-eta.vercel.app/) – Note-taking app
 
 #### JavaScript & GSAP
-- [Mojito Bar](https://dmytro-serhiienko.github.io/gsap-mojito-practice/) – Landing page for Mojito Bar
+- [Mojito Bar](https://dmytro-serhiienko.github.io/mojito-bar/) – Landing page for Mojito Bar
 - [Watch E-Commerce](https://dmytro-serhiienko.github.io/watch-website/) – E-Commerce Website Luxury Watch
 - [Restaurant website](https://dmytro-serhiienko.github.io/fried-chicken-website/) – Landing page for a fast-food restaurant
 - [Calculator JS](https://dmytro-serhiienko.github.io/js-calculator-program/) – Custom Animated Calculator
